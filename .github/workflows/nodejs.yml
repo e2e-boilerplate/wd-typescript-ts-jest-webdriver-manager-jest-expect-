@@ -1,8 +1,8 @@
-name: wd-typescript-ts-jest-webdriver-manager-jest-expect
+name: wd-typescript-ts-jest-webdriver-manager-jest-expect-
 'on':
   push: null
   schedule:
-    - cron: 59 2 1-31/2 * *
+    - cron: 40 2 1-31/2 * *
 jobs:
   build:
     runs-on: ubuntu-latest
