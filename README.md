@@ -2,7 +2,7 @@
     
 # WD Boilerplate
     
-WD end-to-end test automation boilerplate, Using TypeScript, ts-jest, Webdriver-Manager, Jest and Assert.
+WD end-to-end test automation boilerplate, Using [TypeScript](https://www.typescriptlang.org), [ts-jest](https://github.com/kulshekhar/ts-jest), [Webdriver-Manager](https://github.com/angular/webdriver-manager#readme), [Jest](https://jestjs.io) and Assert.
     
 ## Getting Started
     
