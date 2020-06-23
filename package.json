@@ -6,7 +6,7 @@
   "dependencies": {
     "chai-as-promised": "7.1.1",
     "jest": "26.0.1",
-    "ts-jest": "26.1.1",
+    "ts-jest": "26.1.0",
     "typescript": "3.9.5",
     "wd": "1.12.1",
     "webdriver-manager": "12.1.7"
