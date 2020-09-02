@@ -13,7 +13,7 @@
   },
   "description": "WD end-to-end test automation boilerplate. Using TypeScript, ts-jest, Webdriver-Manager, Jest and Assert.",
   "devDependencies": {
-    "@types/jest": "26.0.10",
+    "@types/jest": "26.0.13",
     "@types/node": "13.13.16",
     "husky": "4.2.5",
     "lint-staged": "10.2.13",
